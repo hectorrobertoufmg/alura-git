@@ -4,8 +4,6 @@ int main()
 {
 
     printf("Teste");
-    printf("Colocando nova atulização");
-    printf("Adicionado da pasta da Ana/projetos");
-
+    printf("Linha adicionada dentro do Repositório do Hector!");
     return 0;
 }
